@@ -11,7 +11,7 @@ services:
     environment:
       POSTGRES_USER: postgres
       POSTGRES_DB: threads
-      POSTGRES_PASSWORD: threads
+      POSTGRES_PASSWORD: killmeone
 
 volumes:
   postgres_data:
